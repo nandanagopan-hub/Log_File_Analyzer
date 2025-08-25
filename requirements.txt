@@ -1,0 +1,6 @@
+pytest 
+python3
+smtplib
+email
+configparser
+regex

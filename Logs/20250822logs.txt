@@ -1,0 +1,12 @@
+2025-08-22 09:58:23,101 INFO  Application started successfully
+2025-08-22 09:59:02,332 INFO  User 'admin' logged in
+2025-08-22 09:59:10,874 WARN  Deprecated API call detected: /v1/getUser
+2025-08-22 09:59:15,223 ERR   Database connection failed - retrying...
+2025-08-22 09:59:16,554 INFO  Retrying database connection
+2025-08-22 09:59:17,110 ERR   Database connection failed - max retries exceeded
+2025-08-22 09:59:20,410 INFO  User 'test_user' attempted login
+2025-08-22 09:59:22,657 WARN  Disk space low: only 5% remaining
+2025-08-22 09:59:25,873 INFO  Cache cleared successfully
+2025-08-22 09:59:30,995 ERR   Timeout occurred while processing request /api/orders
+2025-08-22 09:59:35,144 INFO  Scheduled job executed: cleanup_task
+2025-08-22 09:59:40,671 INFO  User 'admin' logged out
